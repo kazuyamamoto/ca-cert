@@ -1,2 +1,2 @@
 # ca-cert
-Builds Docker image to which ca-certificates preinstalled.
+Builds Docker images to which ca-certificates are preinstalled.

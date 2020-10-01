@@ -1,2 +1,2 @@
 all:
-	docker build --tag kazuyamamoto/alpine-ca-cert .
+	docker build --tag kazuyamamoto/ca-cert.alpine .
